@@ -11,12 +11,12 @@ void main() async {
   await Firebase.initializeApp(
   // ignore: prefer_const_constructors
   options: FirebaseOptions(
-    apiKey: "AIzaSyDTH2th85rCm3YlFgFmeaShmHpOqPiAUX0",
+    apiKey: "*****",
     authDomain: "bookstore-53363.firebaseapp.com",
     projectId: "bookstore-53363",
     storageBucket: "bookstore-53363.appspot.com",
     messagingSenderId: "891743427074",
-    appId: "1:891743427074:web:a5290ccd4ee6aba3eda51b",
+    appId: "*****",
     measurementId: "G-WGEP62QXL8"
     ),
 );
